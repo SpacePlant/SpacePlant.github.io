@@ -1,5 +1,6 @@
 # Reported Vulnerabilities
-## Local Privilege Escalation (Windows) 
+## Local Privilege Escalation (Windows)
+
  | Software | CVE | EUVD | Advisory |
  | --- | --- | --- | --- |
  | M-Files | CVE-2023-0213 | EUVD-2023-12302 | https://www.m-files.com/about/trust-center/security-advisories/cve-2023-0213/ |

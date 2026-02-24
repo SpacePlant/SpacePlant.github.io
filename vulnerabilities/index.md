@@ -10,6 +10,7 @@
  | Splashtop Streamer | CVE-2024-42050 | EUVD-2024-39418 | https://github.com/SpacePlant/Vulns/blob/main/Advisories/2024/4.md | |
  | IBM QRadar WinCollect Agent | CVE-2023-38736 | EUVD-2023-42511 | https://www.ibm.com/support/pages/security-bulletin-ibm-qradar-wincollect-agent-vulnerable-local-escalation-privilege-attack-some-configurations-cve-2023-38736 | |
  | FortiClient | CVE-2023-41840 | EUVD-2023-46331 | https://www.fortiguard.com/psirt/FG-IR-23-274 | |
+ | FortiClient | CVE-2025-62676 | EUVD-2025-206993 | https://www.zerodayinitiative.com/advisories/ZDI-26-115/ |
  | Proton VPN | CVE-2024-37391 | EUVD-2024-36630 | https://proton.me/security/security-advisories | |
  | Mullvad VPN | CVE-2023-50446 | EUVD-2023-55238 | https://github.com/mullvad/mullvadvpn-app/pull/5398 | |
  | Foxit PDF Reader / Foxit PDF Editor | CVE-2024-32488 | EUVD-2024-30292 | https://www.foxit.com/support/security-bulletins.html | |

@@ -16,6 +16,7 @@
  | Foxit PDF Reader / Foxit PDF Editor | CVE-2024-32488 | EUVD-2024-30292 | https://www.foxit.com/support/security-bulletins.html | |
  | Foxit PDF Reader / Foxit PDF Editor | CVE-2025-9330 | EUVD-2025-26462 | https://www.zerodayinitiative.com/advisories/ZDI-25-870/ | |
  | Elliptic Virtual Lock Sensor | CVE-2025-0886 | EUVD-2025-21807 | https://support.lenovo.com/us/en/product_security/LEN-182738 | https://github.com/JNDataRT/VirtualLockSensorLPE |
+ | Hyland Desktop Host | CVE-2026-110359 | EUVD-2026-100760 | https://github.com/JNDataRT/Vulns/blob/main/Advisories/2026/1.md | |
 
  ## Other (Windows)
 
